@@ -55,7 +55,7 @@ namespace InfiniteDecimalConv
             catch (System.Exception e)
             {
 
-                Console.WriteLine("never gonna give you up, never gonna let you down never gonna roll arund and desert yu" + e);
+                Console.WriteLine("Never gonna give you up, never gonna let you down.\nNever gonna run around and desert you.\nNever gonna make you cry, never gonna say goodbye.\n" + e);
             }
 
 
